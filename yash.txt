@@ -5,3 +5,4 @@ Hi this is second day of devops .. and this freaking cool .. Github .. desktop .
 
 
 Hi I am creating the file in other branch .. this is like another copy but won't be reflecting to the master .. untill and unless the pull is requested .. its great feature
+I have learnt FORKING .. it helps to use the source code of other user public source code .. one can make the change but .. it won't affect the original .. only the forked source code ..
